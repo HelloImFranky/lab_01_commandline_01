@@ -17,7 +17,12 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
-
+AMALogger20190109.log	Downloads		New Unity Project	isus
+Adlm			KyleH-MTEC1003		Pictures		mtec1002
+Adobe			Library			Public			pymel.log
+Applications		MPLABXProjects		QLData			xgen
+Desktop			Movies			Things
+Documents		Music			ipe.properties
 
 
 ==========
@@ -27,19 +32,19 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
-
+Desktop/   Documents/ Downloads/ 
 
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
-
+Desktop/   Documents/ Downloads/ 
 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
-
+ls: D: No such file or directory
 
 
 ==========
