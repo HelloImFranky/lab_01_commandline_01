@@ -43,7 +43,9 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+V217-M16:mtec1002 franklyn.aquino72$ mkdir animals
+V217-M16:mtec1002 franklyn.aquino72$ ls
+animals
 
 ==========
 6. Type:
@@ -54,7 +56,9 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+V217-M16:mtec1002 franklyn.aquino72$ mkdir food
+V217-M16:mtec1002 franklyn.aquino72$ ls
+animals	food
 
 ==========
 7. Type:
@@ -66,6 +70,7 @@ Copy and paste the output below.
 ----------
 
 
+animals	foo	food
 
 ==========
 8. Type:
@@ -77,6 +82,8 @@ Copy and paste the output below.
 ----------
 
 
+/Users/franklyn.aquino72/mtec1002/foo/bar/baz/qux
+
 
 ==========
 9. Type:
@@ -87,7 +94,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/franklyn.aquino72/mtec1002/foo/bar
 
 ==========
 10. Type:
@@ -98,7 +105,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/franklyn.aquino72/mtec1002/foo/bar/baz/qux
  
 ==========
 11. Type:
@@ -109,7 +116,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/franklyn.aquino72/mtec1002
 
 ==========
 12. Type:
@@ -121,7 +128,8 @@ $ ls -l
 Copy and paste the first two lines from the output into the space below.
 ----------
 
-
+drwxr-xr-x  3 franklyn.aquino72  ACADEMIC\Domain Users  96 Jan 31 15:46 foo
+drwxr-xr-x  2 franklyn.aquino72  ACADEMIC\Domain Users  64 Jan 31 15:45 food
 
 ==========
 13. Type:
@@ -132,7 +140,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/franklyn.aquino72
 
 ==========
 14. Type:
@@ -143,7 +151,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 15. Type:
@@ -154,7 +162,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 15. Type:
@@ -165,7 +173,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/franklyn.aquino72/mtec1002
 
 ==========
 16. Type:
@@ -175,13 +183,13 @@ $ hostname
 Copy and paste the output into the space below.
 ----------
 
-
+V217-M16.local
 
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+pwd
 
 ==========
 17b. If you're not in the right directory, type the following command:
@@ -204,7 +212,7 @@ lemon
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
 
-
+~/
 
 ==========
 19. Make another directory called aardvark.  
@@ -212,7 +220,7 @@ Use only one command to make all of these new directories.  Write what command y
 Write the command you used to create the directory below:
 ----------
 
-
+mkdir aardvark
 
 ==========
 20. List the files and directories in the current directory using the long format.  
