@@ -55,8 +55,8 @@ $ ls -l Documents<ENTER>
 Copy and paste the first *two lines* of output below.
 ----------
 
-V217-M16:~ franklyn.aquino72$ ls -1 Documents
-iChats
+drwxr-xr-x   8 student  staff   272 Jan 17  2018 Ableton
+drwxrwxrwx  14 student  staff   476 Jan 17  2018 Adobe
 
 ==========
 4.  Type:
@@ -66,8 +66,8 @@ $ ls -a Documents
 Copy and paste the first *two lines* of output below.
 ----------
 
-V217-M16:~ franklyn.aquino72$ ls -a Documents
-.		..		.localized	iChats
+.			Adobe Flash Builder 4.7	MuseLog.txt		Temporary Work
+..			Arduino			NewBlue			Unreal Projects
 
 ==========
 5.  Type:
@@ -171,5 +171,5 @@ What is the command, flag, argument, and prompt?
 
 The command: ls
 The flag: -a
-The argument: -a Desktop
+The argument: Desktop
 The promt: ls -a Desktop
