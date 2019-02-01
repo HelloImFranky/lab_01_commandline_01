@@ -172,4 +172,4 @@ What is the command, flag, argument, and prompt?
 The command: ls
 The flag: -a
 The argument: Desktop
-The promt: ls -a Desktop
+The promt: $
