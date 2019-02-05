@@ -286,7 +286,7 @@ ls -a
 28. What's a pathname?
 ----------
 
-A pathnameis a specified location of a unique directory
+A pathname is a specified location of a unique directory
 
 ==========
 29. What's a directory?
@@ -297,4 +297,4 @@ A directory is like a folder
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
-cd /Downloads
+cd Users/Student/Downloads
