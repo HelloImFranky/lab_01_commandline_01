@@ -212,7 +212,7 @@ lemon
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
 
-~/
+Mkdir 
 
 ==========
 19. Make another directory called aardvark.  
@@ -228,7 +228,7 @@ mkdir aardvark
 What is the modified date of the aardvark directory?
 ----------
 
-
+drwxr-xr-x   2 franklyn.aquino72  ACADEMIC\Domain Users    64 Feb  5 16:44 aardvark
 
 ==========
 21. Make 3 directories nested within each other:
@@ -240,7 +240,7 @@ What is the modified date of the aardvark directory?
 What command did you use?
 ----------
 
-
+mkdir -p foo/bar/baz
 
 ==========
 22. Change your directory so that you're in the inner most directory (baz)
@@ -248,7 +248,7 @@ What command did you use?
 What command did you use?
 ----------
 
-
+cd foo/bar
 
 ==========
 23. Change your directory so that you're two directories up (foo)
@@ -256,43 +256,45 @@ What command did you use?
 What command did you use?
 ----------
 
+../..
 
 ==========
 24. What command is used to delete empty directories?
 ----------
 
-
+rmdir
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
 
-
+.
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
 
-
+ls -a
 
 ==========
 27. What's the shortcut for home directory?
 ----------
 
-
+~
 
 ==========
 28. What's a pathname?
 ----------
 
-
+A pathnameis a specified location of a unique directory
 
 ==========
 29. What's a directory?
 ----------
 
-
+A directory is like a folder 
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+cd /Downloads
